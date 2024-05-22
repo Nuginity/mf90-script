@@ -15,6 +15,9 @@ Script simple untuk mengendalikan modem MF90 dari terminal
 
 - Mematikan WLAN Wifi
 - Menyalakan WLAN Wifi
+- Menyalakan Data
+- Mematikan Data
+- Merestart Modem
 
 ## Dibutuhkan
 
