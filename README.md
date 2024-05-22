@@ -16,6 +16,10 @@ Script simple untuk mengendalikan modem MF90 dari terminal
 - Mematikan WLAN Wifi
 - Menyalakan WLAN Wifi
 
+## Dibutuhkan
+
+- Python3
+- pip
 
 ## Installation
 
