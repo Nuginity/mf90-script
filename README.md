@@ -26,7 +26,7 @@ Script simple untuk mengendalikan modem MF90 dari terminal
 Install Script menggunakan wget
 
 ```bash
-  wget --no-check-certificate https://raw.githubusercontent.com/Nuginity/mf90-script/main/requirements.txt && pip install -r requirements.txt
+  wget --no-check-certificate https://raw.githubusercontent.com/Nuginity/mf90-script/main/requirements.txt && pip install -r requirements.txt && rm -r requirements.txt
   wget --no-check-certificate https://raw.githubusercontent.com/Nuginity/mf90-script/main/mf90 && mv mf90 /usr/bin && chmod +x /usr/bin/mf90
 
 ```
