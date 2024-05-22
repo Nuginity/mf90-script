@@ -20,6 +20,7 @@ Script simple untuk mengendalikan modem MF90 dari terminal
 
 - Python3
 - pip
+- Password MIFI harus "admin"
 
 ## Installation
 
