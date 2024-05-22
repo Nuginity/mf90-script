@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#! /usr/bin/env python3
 from os import system, name
 import requests
 from requests.exceptions import ConnectionError
@@ -104,12 +104,13 @@ while True:
     except ConnectionError as e:
         print("IP Salah. Pastikan sesuai dengan WEBUI")
 
+
+clear()
+
+login(ip)
+time.sleep(2)
+
 while True:
-
-    clear()
-
-    login(ip)
-    time.sleep(2)
 
     clear()
     
