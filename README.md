@@ -43,6 +43,5 @@ mf90
 ```
 
 ## TODO
-- Restart MIFI
 - Auto Wifi off
 - Ubah Band
