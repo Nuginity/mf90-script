@@ -103,12 +103,13 @@ while True:
     except ConnectionError as e:
         print("IP Salah. Pastikan sesuai dengan WEBUI")
 
+
+clear()
+
+login(ip)
+time.sleep(2)
+
 while True:
-
-    clear()
-
-    login(ip)
-    time.sleep(2)
 
     clear()
     
