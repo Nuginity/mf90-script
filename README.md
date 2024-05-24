@@ -33,7 +33,7 @@ Install Script menggunakan wget
   wget --no-check-certificate https://raw.githubusercontent.com/Nuginity/mf90-script/main/requirements.txt && pip install -r requirements.txt && rm -r requirements.txt
 ```
 ```bash
-  wget [https://raw.githubusercontent.com/Nuginity/mf90-script/script/script.py](https://raw.githubusercontent.com/Nuginity/mf90-script/main/script/script.py) && mv script.py mf90 && mv mf90 /usr/bin && chmod +x /usr/bin/mf90
+  wget --no-check-certificate https://raw.githubusercontent.com/Nuginity/mf90-script/main/script/script.py && mv script.py mf90 && mv mf90 /usr/bin && chmod +x /usr/bin/mf90
 
 ```
     
